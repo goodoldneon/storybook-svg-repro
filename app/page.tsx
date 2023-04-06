@@ -1,5 +1,5 @@
-import ExpressLogo from "@/app/logos/express.svg";
+import { Logo } from "./Logo";
 
 export default function Home() {
-  return <ExpressLogo />;
+  return <Logo />;
 }
